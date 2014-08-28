@@ -1,0 +1,26 @@
+    
+	STARCODE v1.4
+	http://www.sc2mapster.com/maps/kyrptlib/files/
+	
+
+    gt_PreloadtheBank2_Init();
+    gt_BankLoadCrystals2_Init();
+    gt_BankSave2_Init();
+	
+	KryptCodeEncryptString = KRYPTCODE_AES_CTR_encryptStringSha256
+	KyptCodeDecryptString = KRYPTCODE_AES_CTR_decryptStringSha256
+
+	
+	Fantasy PW:5-TNYGPiEbisoSzh
+	Impossible PW:Vl6xakW_Mgzd#Sq0
+	Godly PW:R#_qBOIFprxO#gvP
+	Z 3:Cl%cFUbS1KvwcVhu
+	Z 2:PfURtdWTEEh_lMOn
+	Z: yM-4gaGSl2_%IfrY
+	VH:$$ppY$8d-acknqIV
+	Hard:3IKTiRlEDkBLAtj$
+	Normal:oIl%DebD53ocewyR
+	Easy:48lXKHbNrdYsG8ov
+	Veasy:tBf4G#CUvf_6C4tp
+	
+	

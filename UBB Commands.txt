@@ -1,0 +1,51 @@
+								Ultimate Boss Battles
+ctrl+shift+alt+ any of the following keys renders the described effect.
+key			effect					description
+4			unlock cursor			Can select other people and bosses as neutral units
+
+5			lock cursor				reverts back to cursor locked on player
+
+7			Player 1 lv 15			sets player 1's level to 15 through xp = 401000
+
+8			Player 2 lv 15			sets player 2's level to 15 through xp = 401000 
+
+9			Spawn Goliath			Spawns a goliath from a drop pod
+
+-			500 damage				gives 500 damage to the unit selected 
+
+= 			gv $50					gives $50 to the player
+
+O			Up damage				increases dmg x8 (estimate) only for current battle
+									andremoved if you die
+
+k			reset lv				resets the players level to 1 Unknown conditions needed
+
+L			give XP					gives the player 600XP
+
+J			giveXP2					gives the player 100000XP
+	
+P			PVP	ON					allows you to kill teammates	
+
+L			PVP OFF					disables friendly fire.
+
+1			enable GM				required for certain chat commands		
+
+3			Boss16RollAround		Used for testing the bosses, forces them into a specific
+									attack pattern
+
+CHATBOX COMMANDS			
+#GMTesting	enable GMTesting		required for certain commands
+#NoHero 2							changes you to the raynor model
+#NoHero	3							changes you to the raynor portrait
+
+UNCONFIRMED COMMANDS
+Up			Shield					Gives a shield Requires #GMTesting and used for testing,
+									obsolete
+6			Get Achievements		Get all the Achievements
+#Comfromal							Tester, give equipment. Possibly obsolete
+#Gearset							More equipment spawning, Possibly Obsolete
+
+TriggerAddEventChatMessage
+TriggerAddEventKeyPressed
+
+
